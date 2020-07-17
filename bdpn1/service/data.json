@@ -1,0 +1,15 @@
+{
+    "date_expired": null,
+    "enable": true,
+    "enable_sftp": false,
+    "enable_soap": true,
+    "enable_web": true,
+    "role": "2",
+    "id": 5419,
+    "login": "i.semin",
+    "name": "Иван",
+    "parent_organization": {
+        "name": "ГУ МВД России по Красноярскому краю ФОИВ"
+    },
+    "surname": "Сёмин"
+}
